@@ -44,10 +44,6 @@ WIN32 BUILD/INSTALL (when Microsoft Developer Studio installed)
 
 	shell>> perl -MCPAN -e "shell install SQL::Generator"
 
-RECENT CHANGES
-
-	This is the first release.
-
 HISTORY
 
 	See the Changes file in this distribution.
@@ -55,6 +51,10 @@ HISTORY
 TODO
 
 	See the Todo file in this distribution (if exists).
+
+EXAMPLES
+
+	You should have a look into the test1.pl script.
 
 AUTHOR
 

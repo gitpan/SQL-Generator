@@ -4,3 +4,5 @@ Revision history for Perl extension SQL::Generator.
 	- original version; created by h2xs 1.20 with options
 		-A -X -a -n SQL::Generator
 
+0.02  06-17-2002 
+	- t/01_argument fixed.

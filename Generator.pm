@@ -6,7 +6,7 @@
 #
 # it and/or modify it under the same terms as Perl itself.
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 require 5.005_62;
 
